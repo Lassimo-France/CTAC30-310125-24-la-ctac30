@@ -28,7 +28,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="lassimo-logo.png" alt="LASSIMO logo" class="logo">
+    <img src="logo.png" alt="LASSIMO logo" class="logo">
     <div class="pv">Product Verified ✅</div>
     <div class="note">
       If you see below the <span class="green">same batch number</span> and product details as your COA,
