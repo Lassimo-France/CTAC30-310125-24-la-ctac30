@@ -1,5 +1,4 @@
-# CTAC30-310125-24-la-ctac30
-<!DOCTYPE html>
+# Official Verification Page - Lassimo France
 <html lang="en">
 <head>
   <meta charset="UTF-8">
